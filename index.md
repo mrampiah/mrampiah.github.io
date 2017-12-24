@@ -2,7 +2,7 @@
 # You don't need to edit this file, it's empty on purpose.
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-layout: home
+layout: page
 ---
 
 Welcome to my Jekyll mini-site! This is a portal into my world, with sections for professional and entertainment endeavors. Take a look around! :)
