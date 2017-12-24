@@ -25,11 +25,6 @@ So for movies, I'll be giving a list of some of my favorite movies (in no partic
 </figure>
 
 <figure>
-<img src='/assets/guardians.jpg' height='400px' width='750px' alt='Guardians of the Galaxy Vol. 1'>
-<figcaption>Guardians of the Galaxy Vol. 1</figcaption>
-</figure>
-
-<figure>
 <img src='/assets/bourne.jpg' height='400px' width='280px' alt='The Bourne Series'>
 <figcaption>Jason Bourne (stand-in for entire series)</figcaption>
 </figure>
@@ -37,6 +32,11 @@ So for movies, I'll be giving a list of some of my favorite movies (in no partic
 <figure>
 <img src='/assets/hotel-rwanda.jpg' height='400px' width='280px' alt='Hotel Rwanda'>
 <figcaption>Hotel Rwanda</figcaption>
+</figure>
+
+<figure>
+<img src='/assets/guardians.jpg' height='400px' width='750px' alt='Guardians of the Galaxy Vol. 1'>
+<figcaption>Guardians of the Galaxy Vol. 1</figcaption>
 </figure>
 
 <figure>
