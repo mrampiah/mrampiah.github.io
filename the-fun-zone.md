@@ -1,6 +1,8 @@
 ---
 layout: page
-title: 'The Fun Zone'
+title: The Fun Zone
+icon: fa-music
+order: 3
 ---
 Despite being totally fascinated by the arts, particularly music and movies, a combination of fear and lack of confidence have limited my contribution. 
 
@@ -20,32 +22,32 @@ The bigger shame is not having anything to show for past video endeavours. In hi
 So for movies, I'll be giving a list of some of my favorite movies (in no particular order). I might build on or alter the list as time goes on and new faves are discovered - or remembered :D. 
 
 <figure>
-<img src='/assets/bourne.jpg' height='400px' width='280px' alt='The Bourne Series'>
+<img src='/assets/images/bourne.jpg' height='400px' width='280px' alt='The Bourne Series'>
 <figcaption>Jason Bourne (stand-in for entire series)</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/hotel-rwanda.jpg' height='400px' width='280px' alt='Hotel Rwanda'>
+<img src='/assets/images/hotel-rwanda.jpg' height='400px' width='280px' alt='Hotel Rwanda'>
 <figcaption>Hotel Rwanda</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/silver-linings-playbook.jpg' height='400px' width='330px' alt='The Silver Linings Playbook'>
+<img src='/assets/images/silver-linings-playbook.jpg' height='400px' width='330px' alt='The Silver Linings Playbook'>
 <figcaption>The Silver Linings Playbook</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/gladiator.jpg' height='400px' width='500px' alt='Ip Man'>
+<img src='/assets/images/gladiator.jpg' height='400px' width='500px' alt='Ip Man'>
 <figcaption>Gladiator</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/ip-man.jpg' height='400px' width='700px' alt='Ip Man'>
+<img src='/assets/images/ip-man.jpg' height='400px' width='700px' alt='Ip Man'>
 <figcaption>Ip Man</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/guardians.jpg' height='400px' width='750px' alt='Guardians of the Galaxy Vol. 1'>
+<img src='/assets/images/guardians.jpg' height='400px' width='750px' alt='Guardians of the Galaxy Vol. 1'>
 <figcaption>Guardians of the Galaxy Vol. 1</figcaption>
 </figure>
 

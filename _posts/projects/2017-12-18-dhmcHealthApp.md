@@ -1,8 +1,9 @@
 ---
-layout: page
-title:  "DHMC - Health App"
+layout: post
+title:  DHMC - Health App
 date:   2017-12-18 14:38:00 -0500
-categories: projects
+category: projects
+icon: fa-medkit
 ---
 
 Dartmouth Hitchcock Medical Center wished to address flaws in its patient intake system. The goal was to create a prototype application to improve data collection and analysis, while ensuring enjoyable patient stays. Its main feature was a personalized patient profile which would allow medical staff to record information otherwise not present in traditional EHRs, but useful in the provision of patient care. This includes, but is not limited to dietary prferences, exercise habits and sleep patterns. 
@@ -21,26 +22,26 @@ Dartmouth Hitchcock Medical Center wished to address flaws in its patient intake
 #### Screens
 
 <figure>
-<img src='/assets/dhmc-dashboard.png' height='350' alt='Dashboard'>
+<img src='/assets/images/dhmc-dashboard.png' height='350' alt='Dashboard'>
 <figcaption>Dashboard</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/dhmc-search.png' height='350' alt='Search'>
+<img src='/assets/images/dhmc-search.png' height='350' alt='Search'>
 <figcaption>Search</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/dhmc-addPatient.png' height='350' alt='Add Patient'>
+<img src='/assets/images/dhmc-addPatient.png' height='350' alt='Add Patient'>
 <figcaption>Add Patient</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/dhmc-addPatientRelation.png' height='350' alt='Add Patient Relation'>
+<img src='/assets/images/dhmc-addPatientRelation.png' height='350' alt='Add Patient Relation'>
 <figcaption>Add Patient Relation</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/dhmc-statisticalInformation.png' height='350' alt='Stats'>
+<img src='/assets/images/dhmc-statisticalInformation.png' height='350' alt='Stats'>
 <figcaption>Stats</figcaption>
 </figure>

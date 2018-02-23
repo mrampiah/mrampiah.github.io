@@ -1,8 +1,9 @@
 ---
-layout: page
-title:  "WeRideShare"
+layout: post
+title:  WeRideShare
 date:   2017-12-18 14:38:00 -0500
-categories: projects
+category: projects
+icon: fa-car
 ---
 
 For my Android class, I was part of a 3-person team which created WeRideshare. The goal of the app is to provide an easy-to-use and consistent system which connects users with similar commutes and facilitate carpooling. 
@@ -24,27 +25,26 @@ For my Android class, I was part of a 3-person team which created WeRideshare. T
 #### Screens
 
 <figure>
-<img src = '/assets/wrs-splashScreen.png' height='400px' alt='Splash'>
 <figcaption>Splash Screen</figcaption>
 </figure>
 
 <figure>
-<img src = '/assets/wrs-login.png' height='400px' alt='Login'>
+<img src = '/assets/images/wrs-login.png' height='400px' alt='Login'>
 <figcaption>Login</figcaption>
 </figure>
 
 <figure>
-<img src = '/assets/wrs-firebaseAuth.png'>
+<img src = '/assets/images/wrs-firebaseAuth.png'>
 <figcaption>Snapshot of user (rider/driver) credentials</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/wrs-realtimeDatabase.png' height='350px'>
+<img src='/assets/images/wrs-realtimeDatabase.png' height='350px'>
 <figcaption>Snapshot of messages</figcaption>
 </figure>
 
 <figure>
-<img src='/assets/wrs-locations.png' height='350px'>
+<img src='/assets/images/wrs-locations.png' height='350px'>
 <figcaption>Locations Activity</figcaption>
 </figure>
 
