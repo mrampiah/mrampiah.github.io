@@ -8,7 +8,7 @@ order: 1
 icon: fa-location-arrow
 ---
 
-Welcome to my Jekyll mini-site! This is a portal into my world, with sections for professional and entertainment endeavors. Take a look around! :)
+Welcome to my personal website. This is a portal into my world, with sections for professional and entertainment endeavors. Take a look around! :)
 
 ## Resume
 <iframe src="https://drive.google.com/file/d/1ljWkWeKOX3lF3hMxAq0BjUkAAGn-pok6/preview" width="740" height="480"></iframe>
