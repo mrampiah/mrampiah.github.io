@@ -5,4 +5,4 @@ icon: fa-code
 order: 2
 ---
 
-Check out my past and present coding projects!
+Check out my past and ongoing coding projects!

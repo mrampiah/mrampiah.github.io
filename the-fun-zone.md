@@ -17,7 +17,7 @@ Still on the topic of music, here's one of my Spotify playlists. I chose this ou
 
 <br><br>
 
-The bigger shame is not having anything to show for past video endeavours. In high school I produced a number of videos for both entertainment and serious purposes. However, these have been lost through lack of adequate backup and until I find someone with a hidden copy, they'll be residing in the memories of school mates. No biggie, those were veery amateurish videos and would only serve as nostalgic pieces.
+The bigger shame is not having anything to show for past video endeavours. In high school I produced a number of videos for both entertainment and serious purposes. However, these have been lost through lack of adequate backup and until I find someone with hidden copies, they'll be residing in the memories of school mates. No biggie, those were veery amateurish videos and would only serve as nostalgic pieces.
 
 So for movies, I'll be giving a list of some of my favorite movies (in no particular order). I might build on or alter the list as time goes on and new faves are discovered - or remembered :D. 
 
